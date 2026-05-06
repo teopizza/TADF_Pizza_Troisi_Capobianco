@@ -1,0 +1,144 @@
+2025-10-10 15:15:52,541 - INFO - Checking the convergence of molecules in /users/teopizza/test_script_python/S0
+
+2025-10-10 15:15:52,573 - INFO - Checking for convergence
+
+2025-10-10 15:15:52,582 - INFO - Checking for convergence
+
+2025-10-10 15:15:52,584 - INFO - Checking for convergence
+
+2025-10-10 15:15:52,605 - INFO - Convergence reached for all molecules in /users/teopizza/test_script_python/S0
+
+2025-10-10 15:15:54,196 - INFO - Starting T1 vertical computations
+2025-10-10 15:15:54,199 - INFO - Creating new path: /users/teopizza/test_script_python/S0/verticale/t1
+
+2025-10-10 15:15:54,226 - INFO - Starting computations for molecules in /users/teopizza/test_script_python/S0/verticale/t1
+
+2025-10-10 15:15:54,306 - INFO - Job submitted with ID: 508392
+2025-10-10 15:41:55,550 - INFO - Checking for de-excitations
+
+2025-10-10 15:41:55,550 - INFO - Checking for de-excitations
+
+2025-10-10 15:41:55,551 - INFO - Checking for energy values
+
+2025-10-10 15:41:55,551 - INFO - Checking for de-excitations
+
+2025-10-10 15:41:55,551 - INFO - Checking for energy values
+
+2025-10-10 15:41:55,552 - INFO - Checking for energy values
+
+2025-10-10 15:41:55,555 - INFO - Starting S1 vertical computations
+
+2025-10-10 15:41:55,556 - INFO - Creating new path: /users/teopizza/test_script_python/S0/verticale/s1
+
+2025-10-10 15:41:55,577 - INFO - Starting computations for molecules in /users/teopizza/test_script_python/S0/verticale/s1
+
+2025-10-10 15:41:55,633 - INFO - Job submitted with ID: 508431
+2025-10-10 16:01:56,572 - INFO - Checking for de-excitations
+
+2025-10-10 16:01:56,573 - INFO - Checking for energy values
+
+2025-10-10 16:01:56,575 - INFO - Checking for de-excitations
+
+2025-10-10 16:01:56,575 - INFO - Checking for de-excitations
+
+2025-10-10 16:01:56,575 - INFO - Checking for energy values
+
+2025-10-10 16:01:56,575 - INFO - Checking for energy values
+
+2025-10-10 16:01:56,579 - INFO - Starting T1 DeltaSCF optimization
+
+2025-10-10 16:01:56,580 - INFO - Creating new path: /users/teopizza/test_script_python/T1
+
+2025-10-10 16:01:56,600 - INFO - Starting computations for molecules in /users/teopizza/test_script_python/T1
+
+2025-10-10 16:01:56,665 - INFO - Job submitted with ID: 508508
+2025-10-10 19:34:08,967 - INFO - Computation Completed!
+
+2025-10-10 19:34:08,968 - INFO - Checking the convergence of molecules in /users/teopizza/test_script_python/T1
+
+2025-10-10 19:34:08,979 - INFO - Checking for convergence
+
+2025-10-10 19:34:08,990 - INFO - Checking for convergence
+
+2025-10-10 19:34:08,994 - INFO - Checking for convergence
+
+2025-10-10 19:34:09,006 - INFO - Convergence reached for all molecules in /users/teopizza/test_script_python/T1
+
+2025-10-10 19:34:09,007 - INFO - Checking the connectivity between /users/teopizza/test_script_python/S0 and /users/teopizza/test_script_python/T1
+2025-10-10 19:34:09,052 - INFO - Computing connectivity matrix to find geometry differences between /users/teopizza/test_script_python/S0 and /users/teopizza/test_script_python/T1
+
+2025-10-10 19:34:09,148 - INFO - T1 TDDFT Single Point from DeltaSCF geometry
+
+2025-10-10 19:34:09,149 - INFO - Creating new path: /users/teopizza/test_script_python/T1/tddft_vert
+
+2025-10-10 19:34:09,170 - INFO - Starting computations for molecules in /users/teopizza/test_script_python/T1/tddft_vert
+
+2025-10-10 19:34:09,230 - INFO - Job submitted with ID: 509181
+2025-10-10 19:42:09,687 - INFO - Computation Completed!
+
+2025-10-10 19:42:09,696 - INFO - Checking for de-excitations
+
+2025-10-10 19:42:09,697 - INFO - Checking for energy values
+
+2025-10-10 19:42:09,697 - INFO - Checking for de-excitations
+
+2025-10-10 19:42:09,697 - INFO - Checking for energy values
+
+2025-10-10 19:42:09,723 - INFO - Starting S1 TD-DFT optimization
+
+2025-10-10 19:42:09,724 - INFO - Creating new path: /users/teopizza/test_script_python/S1
+
+2025-10-10 19:42:09,730 - INFO - Starting computations for molecules in /users/teopizza/test_script_python/S1
+
+2025-10-10 19:42:09,793 - INFO - Job submitted with ID: 509185
+2025-10-10 20:26:12,973 - INFO - Computation Completed!
+
+2025-10-10 20:26:12,973 - INFO - Checking the convergence of molecules in /users/teopizza/test_script_python/S1
+
+2025-10-10 20:26:12,983 - INFO - Checking for convergence
+
+2025-10-10 20:26:12,987 - INFO - Convergence reached for all molecules in /users/teopizza/test_script_python/S1
+
+2025-10-10 20:26:12,987 - INFO - Checking the connectivity between /users/teopizza/test_script_python/S0 and /users/teopizza/test_script_python/S1
+2025-10-10 20:26:13,003 - INFO - Computing connectivity matrix to find geometry differences between /users/teopizza/test_script_python/S0 and /users/teopizza/test_script_python/S1
+
+2025-10-10 20:26:13,046 - INFO - Starting S0 frequency computation
+2025-10-10 20:26:13,047 - INFO - Creating new path: /users/teopizza/test_script_python/S0/freq
+
+2025-10-10 20:26:13,053 - INFO - Starting computations for molecules in /users/teopizza/test_script_python/S0/freq
+
+2025-10-10 20:26:13,111 - INFO - Job submitted with ID: 509202
+2025-10-10 20:36:14,635 - INFO - Computation Completed!
+
+2025-10-10 20:36:14,635 - INFO - Checking if there are any imaginary frequencies in /users/teopizza/test_script_python/S0/freq
+
+2025-10-10 20:36:16,310 - INFO - Checking for negative frequencies
+
+2025-10-10 20:36:16,323 - INFO - Starting T1 frequency computation
+2025-10-10 20:36:16,324 - INFO - Creating new path: /users/teopizza/test_script_python/T1/freq
+
+2025-10-10 20:36:16,345 - INFO - Starting computations for molecules in /users/teopizza/test_script_python/T1/freq
+
+2025-10-10 20:36:16,405 - INFO - Job submitted with ID: 509205
+2025-10-10 21:00:18,918 - INFO - Computation Completed!
+
+2025-10-10 21:00:18,918 - INFO - Checking if there are any imaginary frequencies in /users/teopizza/test_script_python/T1/freq
+
+2025-10-10 21:00:20,880 - INFO - Checking for negative frequencies
+
+2025-10-10 21:00:20,883 - INFO - Checking for negative frequencies
+
+2025-10-10 21:00:20,908 - INFO - Starting S1 frequency computation
+2025-10-10 21:00:20,910 - INFO - Creating new path: /users/teopizza/test_script_python/S1/freq
+
+2025-10-10 21:00:20,915 - INFO - Starting computations for molecules in /users/teopizza/test_script_python/S1/freq
+
+2025-10-10 21:00:20,988 - INFO - Job submitted with ID: 509210
+2025-10-10 21:34:23,512 - INFO - Computation Completed!
+
+2025-10-10 21:34:23,513 - INFO - Checking if there are any imaginary frequencies in /users/teopizza/test_script_python/S1/freq
+
+2025-10-10 21:34:25,164 - INFO - Checking for negative frequencies
+
+2025-10-24 10:07:44,962 - INFO - Computation Completed!
+
