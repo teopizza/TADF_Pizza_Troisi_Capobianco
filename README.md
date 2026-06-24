@@ -1,4 +1,4 @@
-# Repository Name
+#TADF_Pizza_Troisi_Capobianco
 
 This repository contains the Python, C and bash scripts used to perform the calculations presented in the manuscript:
 
