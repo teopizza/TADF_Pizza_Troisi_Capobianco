@@ -2,9 +2,9 @@
 
 This repository contains the Python, C and bash scripts used to perform the calculations presented in the manuscript:
 
-> Pizza, Teodoro and Troisi, Alessandro and Capobianco, Amedeo. "Computation of Non-Radiative Rates for High-Throughput Virtual Screening: Application to Discovery of Potential TADF Molecules" *Journal of Chemical Theory and Computation* (submitted). DOI: TBD
+> Pizza, Teodoro and Troisi, Alessandro and Capobianco, Amedeo. "Computation of Non-Radiative Rates for High-Throughput Virtual Screening: Application to Discovery of Potential TADF Molecules" *Journal of Chemical Theory and Computation*. DOI: https://doi.org/10.1021/acs.jctc.6c00881
 
-If you use this code or data, please cite the article above (DOI to be added upon publication).
+If you use this code or data, please cite the article above.
 
 ## Repository structure
 
@@ -38,8 +38,8 @@ If you use this code or data, please cite the article above (DOI to be added upo
 
 ## Citation
 
-This repository accompanies the manuscript currently under review. Once published, the full citation and DOI will be added here:
+Teodoro Pizza, Alessandro Troisi, Amedeo Capobianco; Computation of Nonradiative Rates for High-Throughput Virtual Screening: Application to the Discovery of Potential TADF Molecules. J. Chem. Theory Comput. 2026
 
 ```
-DOI: TBD
+DOI:  https://doi.org/10.1021/acs.jctc.6c00881
 ```
